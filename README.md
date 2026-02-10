@@ -22,5 +22,17 @@ It serves an HTML home page, displays a text response for an about page, and han
 
 1. Clone the repository:
    ```bash
-   git clone <(https://github.com/PaulinaS123/AD311-simple-web-server.git)>
+   git clone <https://github.com/PaulinaS123/AD311-simple-web-server.git
    ```
+2. Navigate into the project folder:
+    ```bash
+    cd AD311-simple-web-server
+    ```
+3. Start the server
+   ```bash
+   npm start
+    ```
+4. Open browser and visit:
+   - http://localhost:3000/
+   - http://localhost:3000/about
+
