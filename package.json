@@ -1,0 +1,13 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "Simple Node.js web server using http and fs",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
