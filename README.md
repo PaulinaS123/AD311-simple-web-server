@@ -22,5 +22,5 @@ It serves an HTML home page, displays a text response for an about page, and han
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <(https://github.com/PaulinaS123/AD311-simple-web-server.git)>
    ```
